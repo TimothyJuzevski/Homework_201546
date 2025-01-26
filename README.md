@@ -1,6 +1,6 @@
 # homework_201546
 
-МИС Homework (weather app "WeatherSphere")
+МИС Homework (weather app "WeatherSphere") 
 
 ## Getting Started
 
